@@ -1,0 +1,9 @@
+.Window {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #f8f8f8;
+    transition: 0.3s all;
+}
