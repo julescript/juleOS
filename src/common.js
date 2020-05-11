@@ -1,0 +1,1 @@
+export let env_check = process.env.NODE_ENV === 'production';
